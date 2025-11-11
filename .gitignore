@@ -1,0 +1,15 @@
+# Ignore dependencies and secrets
+node_modules/
+**/node_modules/
+.env
+.env.*
+**/.env
+**/.env.*
+*.log
+**/*.log
+.next/
+dist/
+build/
+.vercel/
+artifacts/
+cache/
