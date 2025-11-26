@@ -1,0 +1,6 @@
+.vercel
+dev.log
+.env
+.env.*
+node_modules
+.next

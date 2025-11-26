@@ -13,3 +13,4 @@ build/
 .vercel/
 artifacts/
 cache/
+.DS_Store
